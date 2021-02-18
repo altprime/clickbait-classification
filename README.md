@@ -71,8 +71,8 @@ Below are two graphs for **Training and validation Accuracy** and **Training and
 </p>
 
 ```
-Recall of the model is 0.97
 Precision of the model is 0.98
+Recall of the model is 0.97
 ```
 
 ### Random user input
